@@ -24,12 +24,14 @@ The challenge is to replicate a Simple Recipe Page. This project is to be built 
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./solution/recipe-page.jpg)
+
+This is the solution to the challenge!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here to view the solution.](https://www.frontendmentor.io/solutions/landing-page-using-css-grid-and-html-c05gOxVs2q)
+- Live Site URL: [Click here to see the live webpage.](https://recipe-page-pink-ten.vercel.app/)
 
 ## My process
 
@@ -44,11 +46,11 @@ This is the first project of my life. I have learnt to use the theoretical knowl
 
 ### Continued development
 
-I am currently in the memorizing phase (not the typical memorizing technique, but the creating a muscle memory). I am not totally aware about most of the CSS properties like 'display' (and some properties related to it), difference between 'align-item' and 'justify-content'.
+I am currently in the memorizing phase (not the typical memorizing technique, but "the muscle memory"). I am not totally aware about most of the CSS properties like 'display' (and some properties related to it), difference between 'align-item' and 'justify-content'.
 
 ## Author
 
-- Website - [Amit Waghmare](https://www.your-site.com)
+- Website - [Recipe Page](https://recipe-page-pink-ten.vercel.app/)
 - Frontend Mentor - [@waghmare-amit](https://www.frontendmentor.io/profile/waghmare-amit)
 - Twitter - [@waghmareamit24](https://www.twitter.com/waghmareamit24)
 - LinkedIn - [Amit Waghmare](https://www.linkedin.com/in/amit-waghmare)
